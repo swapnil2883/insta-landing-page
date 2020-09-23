@@ -1,0 +1,76 @@
+body{
+  background-color: #f4f4f4;
+  font-family: sans-serif;
+}
+
+a{
+  text-decoration: none;
+}
+
+.app_back{
+  background-color:#fff;
+  width: 22%;
+  margin: 1% auto;
+  padding: 1rem 3rem;
+}
+
+.app_back h1{
+  font-family: Lucida Handwriting;
+  text-align: center;
+}
+
+.form{
+  padding-top: 2rem;
+}
+
+input{
+  width: 100%;
+  margin-top: 2%;
+  padding: 12px 4px;
+  color: gray;
+  background-color: #f4f4f4;
+  border: none;
+}
+
+.btn{
+  width: 102%;
+  padding: 10px 4px;
+  margin-top: 3%;
+  border: none;
+  border-radius: 5px;
+  background-color: #C4E0FB;
+  color: #fff;
+}
+
+h5{
+  text-align: center;
+  color: gray;
+}
+
+.fb{
+  text-align: center;
+  font-weight: bold;
+  color: #4267B2;
+}
+
+.forgot{
+  text-align: center;
+  padding-top: 3%;
+}
+
+.New_Acc{
+  background-color: #fff;
+  width: 22%;
+  margin:  auto;
+  padding: 0.6rem 3rem;
+
+}
+
+.signup{
+  color: #3A98F0;
+  font-weight: bold;
+}
+.apps{
+  width: 100px;
+  height: 40px;
+}
